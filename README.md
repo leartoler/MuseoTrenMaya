@@ -3,7 +3,7 @@
 Con los descubrimientos de los trabajos realizado en el Tren Maya es necesario divulgar los monumentos y objetos hallados encada una de las excavaciones. De esta forma, se crea un museo virtual que tendrá tres formas de realizar con tres objetivos diferentes. La información del presente proyecto es resultado de la versión online, que endrá la ventaja de poder estar embebido en cualquier página web. 
 
 ![image](https://github.com/leartoler/MuseoTrenMaya/assets/20194821/d20def99-496d-4c14-b9c3-3e4fed5fbca6)
-3 versiones distinas del mismo proyecto
+3 versiones del proyecto
 
 ## Objetivos
 La creación del museo virtual, en general, tiene com objetivo la divulgación de los resultados de los trabajos arqueológicos del Tren Maya y tener una base de datos de los objetos en 3d. Sin embargo, debido a las caracteríticas de la versión online, el objetivo del presente proyecto está enfoncado específicmente a la divulgación de cada uno de lo frentes. 
