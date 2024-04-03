@@ -13,3 +13,10 @@ Para desarrollar la versión web del museo, es crucial considerar algunos elemen
     Otro aspecto crucial a tener en cuenta es el desarrollo y presentación de la información, la cual se enriquecerá y adaptará para captar y mantener el interés de los usuarios, asegurando que su experiencia sea no solo educativa sino también entretenida.
     En cuanto a su desarrollo, se empleará el motor de videojuegos Unity para la creación del museo virtual. Para la publicación y distribución, se utilizará la plataforma simmer.io, que ofrece la facilidad de integrar el proyecto en cualquier página web mediante la función de incrustación.
     Para la construcción del museo virtual, se prevé que cada sala exhiba un diseño exclusivo, el cual estará concebido para reflejar la esencia distintiva de cada una de las estaciones arqueológicas, en armonía con la temática principal y los objetos expuestos, creando así una experiencia inmersiva y educativa para los visitantes.
+
+## Imágenes
+![image](https://github.com/leartoler/MuseoTrenMaya/assets/20194821/10a7ffb7-1d52-452d-abb9-d3b4a3af972e)
+![image](https://github.com/leartoler/MuseoTrenMaya/assets/20194821/11758068-68f5-488a-8285-51cf17ba796b)
+
+## Demo
+https://trenmaya.neocities.org/Diario_de_Viaje/Capitulo_01/introduccion%20-%20Copy 
